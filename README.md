@@ -1,16 +1,25 @@
-# calculadora_aritmetica
+# 🧮 Arithmetic Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+A clean and responsive arithmetic calculator. It allows users to perform basic mathematical operations with a user-friendly interface.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Perform basic operations: addition, subtraction, multiplication, division  
+- Responsive layout  
+- Clear button to reset calculations  
+- Real-time result updates  
 
-## Customize configuration
+## 🌐 Live Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+👉 [calculadora-aritmetica-dougeduardo.vercel.app](https://calculadora-aritmetica-dougeduardo.vercel.app/)
 
-## Project Setup
+## 🛠️ Tech Stack
+
+- **Vue.js** (Composition API)  
+- **Vite** (for fast development and hot module reload)  
+- **Vercel** (for deployment)
+
+## 💾 Project Setup
 
 ```sh
 npm install
