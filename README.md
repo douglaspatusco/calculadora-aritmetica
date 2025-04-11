@@ -13,6 +13,11 @@ A clean and responsive arithmetic calculator. It allows users to perform basic m
 
 👉 [calculadora-aritmetica-dougeduardo.vercel.app](https://calculadora-aritmetica-dougeduardo.vercel.app/)
 
+## 📸 Demo
+
+![preview](https://i.imgur.com/FO3dkJx.png)
+
+---
 ## 🛠️ Tech Stack
 
 - **Vue.js** (Composition API)  
@@ -22,17 +27,13 @@ A clean and responsive arithmetic calculator. It allows users to perform basic m
 ## 💾 Project Setup
 
 ```sh
+git clone git@github.com:douglaspatusco/calculadora-aritmetica-vue.git
+
+cd calculadora-aritmetica-vue
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
 npm run build
 ```
