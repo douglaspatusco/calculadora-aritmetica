@@ -27,9 +27,9 @@ A clean and responsive arithmetic calculator. It allows users to perform basic m
 ## 💾 Project Setup
 
 ```sh
-git clone git@github.com:douglaspatusco/calculadora-aritmetica-vue.git
+git clone git@github.com:douglaspatusco/calculadora-aritmetica.git
 
-cd calculadora-aritmetica-vue
+cd calculadora-aritmetica
 
 npm install
 
